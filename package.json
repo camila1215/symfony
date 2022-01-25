@@ -1,10 +1,13 @@
 {
     "devDependencies": {
+        "@babel/preset-react": "7.0.0",
         "@hotwired/stimulus": "^3.0.0",
         "@symfony/stimulus-bridge": "^3.0.0",
         "@symfony/webpack-encore": "^1.7.0",
         "core-js": "^3.0.0",
         "regenerator-runtime": "^0.13.2",
+        "sass": "^1.49.0",
+        "sass-loader": "12.0.0",
         "webpack-notifier": "^1.6.0"
     },
     "license": "UNLICENSED",
@@ -23,6 +26,7 @@
         "@mui/styled-engine-sc": "^5.3.0",
         "axios": "^0.25.0",
         "prop-types": "^15.8.1",
+        "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "styled-components": "^5.3.3"
     }
